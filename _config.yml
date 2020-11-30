@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
-title <"color:#975030">: Becca of Bell County 
+title: Becca of Bell County <"color:#975030">
 # Short bio or description (displayed in the header)
 description: A lifestyle and fashion blog. Follow along with me!
 
